@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>read more</title> 
+    </head>
+        <body> 
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+} 
+.container {
+    width: 400px;
+    height: 800px;
+    position: absolute;
+    left: 35%;
+    margin: 2px;
+
+}
+
+.card {
+    background-color: rgb(156, 152, 152);
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card img {;
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #f3e6e6;
+}
+
+.card h2 {;
+    margin: 15px 0 10px 0;
+    font-size: 24px;
+    color: black;
+}
+
+.card p {
+    padding: 0 20px;
+    font-size: 14px;
+    color: white;
+    text-align: justify;
+}
+
+.card button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.card button:hover {
+    background-color:skyblue;
+    
+}
+</body>
+</html>
