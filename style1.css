@@ -31,7 +31,7 @@ body {
     padding-bottom: 20px;
 }
 
-.card img {
+.card img {;
     width: 100%;
     height: auto;
     border-bottom: 1px solid #f3e6e6;
