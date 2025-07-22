@@ -1,8 +1,4 @@
-<html>
-    <head>
-        <title>read more</title> 
-    </head>
-        <body> 
+
 body {
     font-family: Arial, sans-serif;
     background-color: white;
@@ -61,8 +57,5 @@ body {
 }
 
 .card button:hover {
-    background-color:skyblue;
-    
+    background-color:skyblue; 
 }
-</body>
-</html>
